@@ -22,4 +22,12 @@ WHERE CONDITION = MET
 
 ```
 
-![](IMG_20240527_064258_809.jpg)
+![](Power-BI-Dashboard.png)
+
+|SN |State | Net Revenue | Gross Revenue|
+| -----| -----| -----| -----|
+|1.| Lagos| 1,081,640 | 1,250,000 |
+|2.| Ondo | 458,750 | 620,450 |
+|3.| Abuja| 336,625 | 417,695 |
+
+
